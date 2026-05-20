@@ -1,0 +1,22 @@
+features
+
+Structure cloud
+
+On gérera 3 niveaux Promo, TD, et TP, ce n'est pas demandé mais cela devra être inclut, il faudra pour un TP, le TD de rattachement et pour le td, sa promo de rattachement
+
+2 models devront être donc exister : générer un emploi du temps complet et un second : caler un cours en bougeant un minimum les autres cours, pour les cours annulés
+
+Une date de fin de cours devra pouvoir être fourni pour une matière.
+Un bouton "vérifier" devra pouvoir faire une vérification qui liste l'ensemble des conflits n'ayant pas été ignoré avec un bouton corriger ou ignorer
+un second bouton vérification complète listant tous les avertissements
+
+Il devra être possible de saisir des périodes de vacances
+
+Prévoir un bouton appliqué à toutes les semaines entre le X et X qd les profs donnent leurs dispos
+
+Devront pouvoir etre rattaché à une promo des heures de cours par cours par types de salles
+3 td en Maths pendant 2h
+1 td en Maths pendant 3h
+2 tp en Maths pendant 3h
+5 amphi en Maths pendant 1h
+
